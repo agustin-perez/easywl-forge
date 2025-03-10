@@ -1,6 +1,8 @@
 # **Easy Whitelist Forge version**
 Forge mod that fixes offline mode issues with UUID
+
 Minecraft version: 1.20.1
+
 Forge version: 47.3.22
 
 ### Usage: 
