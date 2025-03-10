@@ -11,4 +11,4 @@ Forge version: 47.3.22
  - /wl remove <nickname>
  
  
-This mod is a partial port of [Original](https://github.com/NikitaCartes/EasyWhitelist)
+This mod is a partial port of fabric [EasyWhitelist](https://github.com/NikitaCartes/EasyWhitelist)
